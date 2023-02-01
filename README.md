@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @jamesbraun12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in CS50, Python, FreeCodeCamp, & Computer Programming/Coding.
+- 🌱 I’m currently learning Python, HTML, & CSS.
+- 💞️ I’m looking to collaborate on what I'm learning.
+- 📫 How to reach me james.braun12@gmail.com
 
 <!---
 jamesbraun12/jamesbraun12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/52308676312028935478406943719620310265854444186000242784654140974999552393217/
+
